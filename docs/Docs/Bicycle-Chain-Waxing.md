@@ -31,7 +31,7 @@ UPDATE
 
 - Add [MSPEEDWAX](https://moltenspeedwax.com/collections/molten-speed-wax/products/copy-of-molten-speed-wax-3-lbs) to `Slow Cooker` pot and heat to 88 degrees Celsius (190 Fahrenheit)
 - Add dried chain to CROC pot and wait until heat returns to above temperature
-- Swish chain in wax for 2 minutes
+- Swish chain in wax for 1 minute
 - Remove chain and hang to dry
 
 -----
