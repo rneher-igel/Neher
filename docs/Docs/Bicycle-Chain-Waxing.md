@@ -11,14 +11,14 @@ UPDATE
 ## Overview of New Chain Cleaning
 
 - Add 5:1 mixture of [elma tec clean A4](https://www.elma-ultrasonic.com/fileadmin/downloads/CleaningAgents/ProductInformation/EN/PI_elma%20tec%20clean%20A4_EN.pdf) to Ultrasonic Cleaner
-- Degass for 10 minutes and heat mixture to 70 degrees Celsius (158 Fahrenheit)
+- Degass for 10 minutes and heat mixture to 60 degrees Celsius (140 Fahrenheit)
 - Add new chains and run for 10 minutes
 - Remove chains and flush with boiling water (2 times)
 - Filter mixture and repeat above steps
 - Remove chains and flush with boiling water (2 times)
 - If towel drying chain shows grease on towel then repeat above steps
 - Once towel drying shows no grease on towel, add [UFO Drivetrain Cleaner](https://ceramicspeed.com/products/ufo-drivetrain-cleaner-500-ml) to Ultrasonic Cleaner
-- Degass for 10 minutes and heat mixture to 70 degrees Celsius (158 Fahrenheit)
+- Degass for 10 minutes and heat mixture to 60 degrees Celsius (140 Fahrenheit)
 - Add chains and run for 10 minutes
 - Remove chains and flush with boiling water until water is clear
 - Hang chains and dry with hair dryer
