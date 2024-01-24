@@ -28,7 +28,7 @@ flowchart TD
  A[Ultrasonic Cleaner]-- Add 5:1 mixture A4 --> B((Degass 10 min @ 60C))
  B-- Add chains --> C((Ultrasonic 10 min @ 60C))
  C -- Remove chains & flush with water --> D{Pass Number?}
- D -- 1St Pass: filter mixture add chains --> C
+ D -- 1st Pass: filter mixture add chains --> C
  D -- Pass+1: towel dry chains --> E{Grease on towel?}
  E -- Grease on towel: filter mixture add chains --> C
  E -- No Grease on towel --> F[Ultrasonic Cleaner]
