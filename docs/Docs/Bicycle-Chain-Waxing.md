@@ -133,3 +133,8 @@ flowchart TD
 - [Zero Friction Cycling](https://zerofrictioncycling.com.au/)
 - [MSPEEDWAX: Why Wax](https://moltenspeedwax.com/pages/why-wax)
 - [BikeRadar: Why I wax my chains](https://www.bikeradar.com/advice/workshop/how-to-wax-a-chain)
+
+## Final Notes
+
+- Wear safety glasses
+- Naturalize and dispose of waste per your local area requirements

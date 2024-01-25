@@ -46,15 +46,16 @@ Comment
 ### Equipment
 
 - [Base layers](https://merino.tech/)
-- [Cycling Clothing for Long Lasting Comfort](https://www.boure.com/index.html)
-- [Wool Cycling Jerseys](https://www.oregoncyclewear.com/woolcyclingjerseys.html)
-- [Pedals](https://www.crankbrothers.com/collections/eggbeater/products/eggbeater-1?variant=53958723335)
-- [Shoes](https://www.crankbrothers.com/products/mallet-e-lace-black-blue?variant=39315475202144#grouped-product-input)
-- [Pump](https://www.fumpapumps.com/products/fumpa-bike-pump)
-- [Tubeless Sealant](https://www.notubes.com/stan-s-tire-sealant-quart)
-- [Traffic Cone Bag](https://trafficconebag.blogspot.com/p/traffic-cone-bag-101.html)
 - [Bike Packing Rack](https://aeroe.com/)
 - [Bike Repair Stand](https://feedbacksports.com/collections/bike-repair-stands/products/ultralight-bike-repair-stand?variant=44214811296042)
+- [Cycling Clothing for Long Lasting Comfort](https://www.boure.com/index.html)
+- [Mahle X20](https://mahle-smartbike.com/news-event/experience-next-level-cycling-with-the-orbea-gain-ebike-and-mahle-x20-system/)
+- [Pedals](https://www.crankbrothers.com/collections/eggbeater/products/eggbeater-1?variant=53958723335)
+- [Pump](https://www.fumpapumps.com/products/fumpa-bike-pump)
+- [Shoes](https://www.crankbrothers.com/products/mallet-e-lace-black-blue?variant=39315475202144#grouped-product-input)
+- [Traffic Cone Bag](https://trafficconebag.blogspot.com/p/traffic-cone-bag-101.html)
+- [Tubeless Sealant](https://www.notubes.com/stan-s-tire-sealant-quart)
+- [Wool Cycling Jerseys](https://www.oregoncyclewear.com/woolcyclingjerseys.html)
 
 ### My Bikes
 
@@ -62,6 +63,23 @@ Comment
 - [Orbea Gain](https://www.orbea.com/us-en/ebikes/road/gain/)
 - [Orbea Oiz](https://www.orbea.com/us-en/bicycles/mountain/oiz/)
 - [Trek Émonda](https://www.trekbikes.com/us/en_US/emonda/)
+
+### My Links
+
+- [BBBike Garmin Custom Map Extracts](https://extract.bbbike.org/garmin.html)
+- [Bicycle Rolling Resistance](https://www.bicyclerollingresistance.com/)
+- [Bike Packing](https://bikepacking.com/)
+- [Bike Registry](https://project529.com)
+- [Bike Tires Direct](https://www.biketiresdirect.com/)
+- [Bike Tools Etc!](https://www.biketoolsetc.com/)
+- [NiteRider Technical Lighting](https://www.niterider.com/)
+- [Park Tool: Chain Length Sizing](https://www.parktool.com/en-us/blog/repair-help/chain-length-sizing)
+- [Road Bike Rider](https://www.roadbikerider.com/)
+- [Russ McCoy - Coaching](https://russmccoy.wixsite.com/russmccoy)
+- [Russ McCoy - New Mexico Cycling](https://russmccoy.wixsite.com/newmexicocycling)
+- [SRAM Tire Pressure](https://axs.sram.com/guides/tire/pressure)
+
+
 
 ### Nutrition Advice
 
