@@ -11,14 +11,14 @@ UPDATE
 ## Overview of New Chain Cleaning
 
 - Add 5:1 mixture of [elma tec clean A4](https://www.elma-ultrasonic.com/fileadmin/downloads/CleaningAgents/ProductInformation/EN/PI_elma%20tec%20clean%20A4_EN.pdf) to Ultrasonic Cleaner
-- Degass for 10 minutes and heat mixture to 60 degrees Celsius (140 Fahrenheit)
+- Degass for 10 minutes and heat mixture to 60 Celsius (140 Fahrenheit)
 - Add new chains and run for 10 minutes
 - Remove chains and flush with boiling water (2 times)
 - Filter mixture and repeat above steps
 - Remove chains and flush with boiling water (2 times)
 - If towel drying chain shows grease on towel then repeat above steps
 - Once towel drying shows no grease on towel, add [UFO Drivetrain Cleaner](https://ceramicspeed.com/products/ufo-drivetrain-cleaner-500-ml) to Ultrasonic Cleaner
-- Degass for 10 minutes and heat mixture to 60 degrees Celsius (140 Fahrenheit)
+- Degass for 10 minutes and heat mixture to 60 Celsius (140 Fahrenheit)
 - Add chains and run for 10 minutes
 - Remove chains and flush with boiling water until water is clear
 - Hang chains and dry with hair dryer
@@ -43,7 +43,7 @@ flowchart TD
 
 ## Overview of New Chain Waxing
 
-- Add [MSPEEDWAX](https://moltenspeedwax.com/collections/molten-speed-wax/products/copy-of-molten-speed-wax-3-lbs) to `Slow Cooker` pot and heat to 93 degrees Celsius (200 Fahrenheit)
+- Add [MSPEEDWAX](https://moltenspeedwax.com/collections/molten-speed-wax/products/copy-of-molten-speed-wax-3-lbs) to `Slow Cooker` pot and heat to 93 Celsius (200 Fahrenheit)
 - Add dried chain to `Slow Cooker` pot and wait until heat returns to the above temperature
 - Swish chain in wax for 1 minute
 - Remove chain and hang to dry
@@ -68,6 +68,46 @@ flowchart TD
 - Ride bike for 10 minutes to complete initial break in
 
 **Note:** Chain may skip during the 10 minute ride break in period.
+
+-----
+
+-----
+
+## Waxed Chain Maintenance at Home
+
+- Flush with boiling water (2 times)
+- Add 5:1 mixture of [elma tec clean A4](https://www.elma-ultrasonic.com/fileadmin/downloads/CleaningAgents/ProductInformation/EN/PI_elma%20tec%20clean%20A4_EN.pdf) to Ultrasonic Cleaner
+- Degass for 10 minutes and heat mixture to 60 Celsius (140 Fahrenheit)
+- Add chains and run for 10 minutes
+- Remove chains and flush with boiling water until water is clear
+- Hang chains and dry with hair dryer
+- Follow [Overview of new chain waxing](Bicycle-Chain-Waxing.md#overview-of-new-chain-waxing)
+
+-----
+
+-----
+
+## Waxed Chain Maintenance away from home
+
+**Note:** [Steps from Zero Friction Cycling](https://zerofrictioncycling.com.au/wp-content/uploads/2020/10/Lubricant-detail-review-Silca-super-secret-drip-v1.1.pdf) on use of Silca Super Secret Drip Lube.
+
+- Be sure to have chain line relatively straight (53/15 or so).
+- Shake bottle well and open tip halfway.
+- Begin applying drip lube to top of rollers while pedalling backward. Be sure to apply at least 1 drop per roller and no more than 2 drops per roller while continuing to backpedal..
+- Use fingers on top-bottom of chain to work the lube into rollers while back pedalling at least 3-4 revolutions.
+- Pedal forward shifting all the way to top of the cassette, pedal for at least 3-4 revolutions. The extreme chain angle opens gaps between plates to allow the lube to better work into the chain. Continue pedalling, shifting through all gears on the rear cassette at least once.
+- Stop pedalling and allow Secret Chain Lube to dry for minimum 2 hours, test results show that lube is fully hardened in 24 hours. ZeroFrictionCycling found SSCL to be best dry lube EVER Tested after 8 hours drying, but would be EVEN BETTER after 24 hours!!
+
+-----
+
+-----
+
+## Master Link
+
+- Reuse master link for up to 5 times
+- Use a new link on 6th chain install
+
+**Note:** Replace the master link prior to the 6th time if you notice that removal or install of master link is too easy.
 
 -----
 
