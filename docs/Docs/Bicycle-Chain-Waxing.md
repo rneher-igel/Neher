@@ -8,7 +8,7 @@ UPDATE
 
 -----
 
-## Overview of New Chain Cleaning
+## New Chain Cleaning
 
 - Add 5:1 mixture of [elma tec clean A4](https://www.elma-ultrasonic.com/fileadmin/downloads/CleaningAgents/ProductInformation/EN/PI_elma%20tec%20clean%20A4_EN.pdf) to Ultrasonic Cleaner
 - Degass for 10 minutes and heat mixture to 60 Celsius (140 Fahrenheit)
@@ -18,7 +18,7 @@ UPDATE
 - Remove chains and flush with boiling water (2 times)
 - If towel drying chain shows grease on towel then repeat above steps
 - Once towel drying shows no grease on towel, add [UFO Drivetrain Cleaner](https://ceramicspeed.com/products/ufo-drivetrain-cleaner-500-ml) to Ultrasonic Cleaner
-- Degass for 10 minutes and heat mixture to 60 Celsius (140 Fahrenheit)
+- Degass for 10 minutes and heat mixture to 40 Celsius (104 Fahrenheit)
 - Add chains and run for 10 minutes
 - Remove chains and flush with boiling water until water is clear
 - Hang chains and dry with hair dryer
@@ -41,18 +41,22 @@ flowchart TD
 
 -----
 
-## Overview of New Chain Waxing
+## New Chain Waxing
 
 - Add [MSPEEDWAX](https://moltenspeedwax.com/collections/molten-speed-wax/products/copy-of-molten-speed-wax-3-lbs) to `Slow Cooker` pot and heat to 93 Celsius (200 Fahrenheit)
 - Add dried chain to `Slow Cooker` pot and wait until heat returns to the above temperature
 - Swish chain in wax for 1 minute
 - Remove chain and hang to dry
+- Swish master link in wax
+- Remove master link and dry
+
+**Note:** Buy a Candy Thermometer and calibrate with boiling water.
 
 -----
 
 -----
 
-## Overview of New Chain Preparation Prior Installation on Bike
+## New Chain Preparation Prior Installation on Bike
 
 - Break wax bond on chain by running chain over PVC pipe
 
@@ -81,7 +85,7 @@ flowchart TD
 - Add chains and run for 10 minutes
 - Remove chains and flush with boiling water until water is clear
 - Hang chains and dry with hair dryer
-- Follow [Overview of new chain waxing](Bicycle-Chain-Waxing.md#overview-of-new-chain-waxing)
+- Follow [New Chain Waxing](Bicycle-Chain-Waxing.md#new-chain-waxing)
 
 -----
 
@@ -98,6 +102,8 @@ flowchart TD
 - Pedal forward shifting all the way to top of the cassette, pedal for at least 3-4 revolutions. The extreme chain angle opens gaps between plates to allow the lube to better work into the chain. Continue pedalling, shifting through all gears on the rear cassette at least once.
 - Stop pedalling and allow Secret Chain Lube to dry for minimum 2 hours, test results show that lube is fully hardened in 24 hours. ZeroFrictionCycling found SSCL to be best dry lube EVER Tested after 8 hours drying, but would be EVEN BETTER after 24 hours!!
 
+**Note:** Once home, follow [Waxed Chain Maintenance at Home](Bicycle-Chain-Waxing.md#waxed-chain-maintenance-at-home)
+
 -----
 
 -----
@@ -112,6 +118,15 @@ flowchart TD
 -----
 
 -----
+
+## Replace Chain at 0.5% wear
+
+- Use [Shimano TL-CN-42 checker](https://www.amazon.com/dp/B00DT01OBC?psc=1&ref=ppx_yo2ov_dt_b_product_details) to measure wear. Any other tool may give false reading.
+
+**Notes:** 
+
+- SRAM chains with “HARDCHROME” – so Force / Red or x01  xx1 – they are the hardiest wearing chains in the world by a large margin – no other chains wear resistance matches SRAM HARDCHROME wear protection.
+- SRAM flat top chains have oversize rollers so you will get a false low wear measure. 0.5 on a Flat top chains is going to be circa 0.7 on a normal 11/128 standard chain. 
 
 ## Reference Links
 
