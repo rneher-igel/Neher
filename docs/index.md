@@ -14,7 +14,12 @@ Comment
 
 - [Chain Waxing](Docs/Bicycle-Chain-Waxing.md)
 - [Route Planning via Ride with GPS](https://ridewithgps.com/)
+
+![image02](Docs/Images/ridewithgps-gilman-tunnels-loop.png)
+
 - [Become a Wanderer](https://wandrer.earth/about)
+
+![image02](Docs/Images/wandrer-2023-nm.png)
 
 ### Tubeless road tires
 
