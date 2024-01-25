@@ -43,6 +43,17 @@ Comment
 - Does most of the pace setting on windy  segments / days
 - If just riding with a group of non e-assistance riders and not providing sag support then expect to use 8% of your battery per 40 miles
 
+### Equipment
+
+- [Base layers](https://merino.tech/)
+- [Cycling Clothing for Long Lasting Comfort](https://www.boure.com/index.html)
+- [Wool Cycling Jerseys](https://www.oregoncyclewear.com/woolcyclingjerseys.html)
+- [Pedals](https://www.crankbrothers.com/collections/eggbeater/products/eggbeater-1?variant=53958723335)
+- [Shoes](https://www.crankbrothers.com/products/mallet-e-lace-black-blue?variant=39315475202144#grouped-product-input)
+- [Pump](https://www.fumpapumps.com/products/fumpa-bike-pump)
+- [Tubeless Sealant](https://www.notubes.com/stan-s-tire-sealant-quart)
+- [Traffic Cone Bag](https://trafficconebag.blogspot.com/p/traffic-cone-bag-101.html)
+
 ### Nutrition Advice
 
 - I would recommend a balanced intake of carbs, fatty acids and electrolytes with a hypotonic drink -- A beer and a packet of chips.
