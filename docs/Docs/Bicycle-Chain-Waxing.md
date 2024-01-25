@@ -43,8 +43,8 @@ flowchart TD
 
 ## Overview of New Chain Waxing
 
-- Add [MSPEEDWAX](https://moltenspeedwax.com/collections/molten-speed-wax/products/copy-of-molten-speed-wax-3-lbs) to `Slow Cooker` pot and heat to 88 degrees Celsius (190 Fahrenheit)
-- Add dried chain to `Slow Cooker` pot and wait until heat returns to above temperature
+- Add [MSPEEDWAX](https://moltenspeedwax.com/collections/molten-speed-wax/products/copy-of-molten-speed-wax-3-lbs) to `Slow Cooker` pot and heat to 93 degrees Celsius (200 Fahrenheit)
+- Add dried chain to `Slow Cooker` pot and wait until heat returns to the above temperature
 - Swish chain in wax for 1 minute
 - Remove chain and hang to dry
 
