@@ -53,6 +53,8 @@ Comment
 - [Pump](https://www.fumpapumps.com/products/fumpa-bike-pump)
 - [Tubeless Sealant](https://www.notubes.com/stan-s-tire-sealant-quart)
 - [Traffic Cone Bag](https://trafficconebag.blogspot.com/p/traffic-cone-bag-101.html)
+- [Bike Packing Rack](https://aeroe.com/)
+- [Bike Repair Stand](https://feedbacksports.com/collections/bike-repair-stands/products/ultralight-bike-repair-stand?variant=44214811296042)
 
 ### My Bikes
 
