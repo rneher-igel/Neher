@@ -32,8 +32,8 @@ flowchart TD
  D -- Pass+1: towel dry chains --> E{Grease on towel?}
  E -- Grease on towel: filter mixture --> B
  E -- No Grease on towel --> F[Ultrasonic Cleaner]
- F -- Add UFO Drivetrain Cleaner --> G((Degass 10 min @ 60C))
- G -- Add chains --> H((Ultrasonic 10 min @ 60C))
+ F -- Add UFO Drivetrain Cleaner --> G((Degass 10 min @ 40C))
+ G -- Add chains --> H((Ultrasonic 10 min @ 40C))
  H -- Remove chains & flush with water until clear --> I((Hang chains & use dryer))
 ```
 
