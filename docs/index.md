@@ -54,6 +54,13 @@ Comment
 - [Tubeless Sealant](https://www.notubes.com/stan-s-tire-sealant-quart)
 - [Traffic Cone Bag](https://trafficconebag.blogspot.com/p/traffic-cone-bag-101.html)
 
+### My Bikes
+
+- [Borelais Crestone](https://fatbike.com/collections/crestone-builds/products/crestone-custom-sram)
+- [Orbea Gain](https://www.orbea.com/us-en/ebikes/road/gain/)
+- [Orbea Oiz](https://www.orbea.com/us-en/bicycles/mountain/oiz/)
+- [Trek Émonda](https://www.trekbikes.com/us/en_US/emonda/)
+
 ### Nutrition Advice
 
 - I would recommend a balanced intake of carbs, fatty acids and electrolytes with a hypotonic drink -- A beer and a packet of chips.
