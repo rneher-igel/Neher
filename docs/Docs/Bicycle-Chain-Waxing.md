@@ -80,10 +80,11 @@ flowchart TD
 ## Waxed Chain Maintenance at Home
 
 - Flush with boiling water (2 times)
-- Add 5:1 mixture of [elma tec clean A4](https://www.elma-ultrasonic.com/fileadmin/downloads/CleaningAgents/ProductInformation/EN/PI_elma%20tec%20clean%20A4_EN.pdf) to Ultrasonic Cleaner
-- Degass for 10 minutes and heat mixture to 60 Celsius (140 Fahrenheit)
-- Add chains and run for 10 minutes
-- Remove chains and flush with boiling water until water is clear
+- Optional steps to clean dirty chain or chain with Silca Super Secret Drip lube while away from home:
+     - Add 5:1 mixture of [elma tec clean A4](https://www.elma-ultrasonic.com/fileadmin/downloads/CleaningAgents/ProductInformation/EN/PI_elma%20tec%20clean%20A4_EN.pdf) to Ultrasonic Cleaner
+     - Degass for 10 minutes and heat mixture to 60 Celsius (140 Fahrenheit)
+     - Add chains and run for 10 minutes
+     - Remove chains and flush with boiling water until water is clear
 - Hang chains and dry with hair dryer
 - Follow [New Chain Waxing](Bicycle-Chain-Waxing.md#new-chain-waxing)
 
