@@ -13,6 +13,34 @@ Comment
 ## Bicycle
 
 - [Chain Waxing](Docs/Bicycle-Chain-Waxing.md)
+- [Route Planning via Ride with GPS](https://ridewithgps.com/)
+- [Become a Wanderer](https://wandrer.earth/about)
+
+### Tubeless road tires
+
+- As with any tech, shifting (friction vs. indexed) or brakes (rim vs. disc), tubeless road tires require some education and practice on setup, maintenance (monitor and add sealant as needed), and how to fix on the road and at home. All of my bikes are now tubeless except for one road bike that does not have tubeless ready rims. On that road bike I use tubes with removable valve cores and put Stans sealant in the tubes.
+
+
+### Road Tires with Tubes
+
+- For my road bikes with tubes, I run Continental Gator Hardshell (28MM), tubes with removable valve cores, Stans sealant in the tubes, and 80 PSI pressure. I top off with Stans (1 oz) every couple of months. Over two years without a flat in New Mexico. 
+
+- [Continental Gator Hardshell](https://www.bicyclerollingresistance.com/road-bike-reviews/continental-gator-hardshell)
+- [Stans Sealant in Tube](https://www.notubes.com/support-center/sealant)
+
+- **Q:** Can I add sealant to my tubes or tubular tires?
+- **A:** Yes, if the tube or tubular has a removable valve core. If there are two opposing flat surfaces just below the top of the valve, you can use our valve tool to unthread the core and sealant can be installed. We recommend injecting 1-2 ounces (30-60ml) of sealant into tubes or tubular tires. Sealant will not damage tubular tires.
+
+### Use of e-road bikes on group rides for sag wagon support:
+
+- Carries extra water, tubes, food, clothes, etc.
+- Drops back (on climbs, windy days) to pace dropped riders (mechanical / flats) back to the group 
+- Does most of the pace setting on windy  segments / days
+- If just riding with a group of non e-assistance riders and not providing sag support then expect to use 8% of your battery per 40 miles
+
+### Nutrition Advice
+
+- I would recommend a balanced intake of carbs, fatty acids and electrolytes with a hypotonic drink -- A beer and a packet of chips.
 
 ----------
 
