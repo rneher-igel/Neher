@@ -138,3 +138,10 @@ flowchart TD
 
 - Wear safety glasses
 - Naturalize and dispose of waste per your local area requirements
+
+## Want Someone to do Initial Chain Cleaning and Wax?
+
+- [MSPEEDWAX Chains](https://moltenspeedwax.com/collections/ybn-chains)
+- [Zero Friction Cycling Bundle Pack](https://zerofrictioncycling.com.au/product-category/bundle/)
+
+- [Contact me for other options](mailto:r26988@gmail.com)
