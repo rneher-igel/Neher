@@ -70,6 +70,9 @@ Comment
 - [Bicycle Rolling Resistance](https://www.bicyclerollingresistance.com/)
 - [Bike Packing](https://bikepacking.com/)
 - [Bike Registry](https://project529.com)
+- [Bike Shop - Austin, TX](https://velorangutan.com/)
+- [Bike Shop - Corrales, NM](https://www.fattirecycles.com/)
+- [Bike Shop - Loveland, CO](https://www.breakaway-cycles.com/)
 - [Bike Tires Direct](https://www.biketiresdirect.com/)
 - [Bike Tools Etc!](https://www.biketoolsetc.com/)
 - [NiteRider Technical Lighting](https://www.niterider.com/)
@@ -78,8 +81,8 @@ Comment
 - [Russ McCoy - Coaching](https://russmccoy.wixsite.com/russmccoy)
 - [Russ McCoy - New Mexico Cycling](https://russmccoy.wixsite.com/newmexicocycling)
 - [SRAM Tire Pressure](https://axs.sram.com/guides/tire/pressure)
-
-
+- [Strava](https://www.strava.com/)
+- [TrailForks](https://www.trailforks.com/about/)
 
 ### Nutrition Advice
 
