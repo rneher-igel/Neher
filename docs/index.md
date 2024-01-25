@@ -51,6 +51,16 @@ Comment
 
 ----------
 
+## QR Code
+
+- neher-bike
+
+![image03](Docs/Images/qr-neher-bike-400.png)
+
+- neher-bike-chain-waxing
+
+![image04](Docs/Images/qr-neher-bike-chain-waxing-400.png)
+
 <!---
 Comment
 ### QR Codes
