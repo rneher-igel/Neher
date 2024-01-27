@@ -46,7 +46,10 @@ Comment
 ### Equipment
 
 - [Base layers](https://merino.tech/)
+- [Bike Chain Sleeve](http://www.whitelightningco.com/products/johnnys/chain-johnny)
 - [Bike Packing Rack](https://aeroe.com/)
+- [Bike Rack - 1UP](https://1up-usa.com/)
+- [Bike Rack - Saris](https://saris.com/collections/racks)
 - [Bike Repair Stand](https://feedbacksports.com/collections/bike-repair-stands/products/ultralight-bike-repair-stand?variant=44214811296042)
 - [Cycling Clothing for Long Lasting Comfort](https://www.boure.com/index.html)
 - [Mahle X20](https://mahle-smartbike.com/news-event/experience-next-level-cycling-with-the-orbea-gain-ebike-and-mahle-x20-system/)
