@@ -143,6 +143,7 @@ flowchart TD
 ## Want Someone to do Initial Chain Cleaning and Wax?
 
 - [MSPEEDWAX Chains](https://moltenspeedwax.com/collections/ybn-chains)
+- [Silca Pre-Waxed Race Chain](https://www.biketiresdirect.com/product/silca-pre-waxed-race-chain)
 - [Zero Friction Cycling Bundle Pack](https://zerofrictioncycling.com.au/product-category/bundle/)
 
 - [Contact me for other options](mailto:r26988@gmail.com)
