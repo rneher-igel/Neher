@@ -80,7 +80,7 @@ flowchart TD
 ## Waxed Chain Maintenance at Home
 
 - Flush with boiling water (2 times)
-- Optional steps to clean dirty chain or chain with Silca Super Secret Drip lube while away from home:
+- Optional steps to clean dirty chain or chain with SILCA Super Secret Drip lube while away from home:
      - Add 5:1 mixture of [elma tec clean A4](https://www.elma-ultrasonic.com/fileadmin/downloads/CleaningAgents/ProductInformation/EN/PI_elma%20tec%20clean%20A4_EN.pdf) to Ultrasonic Cleaner
      - Degass for 10 minutes and heat mixture to 60 Celsius (140 Fahrenheit)
      - Add chains and run for 10 minutes
@@ -94,7 +94,7 @@ flowchart TD
 
 ## Waxed Chain Maintenance away from home
 
-**Note:** [Steps from Zero Friction Cycling](https://zerofrictioncycling.com.au/wp-content/uploads/2020/10/Lubricant-detail-review-Silca-super-secret-drip-v1.1.pdf) on use of Silca Super Secret Drip Lube.
+**Note:** [Steps from Zero Friction Cycling](https://zerofrictioncycling.com.au/wp-content/uploads/2020/10/Lubricant-detail-review-Silca-super-secret-drip-v1.1.pdf) on use of SILCA Super Secret Drip Lube.
 
 - Be sure to have chain line relatively straight (53/15 or so).
 - Shake bottle well and open tip halfway.
@@ -103,7 +103,12 @@ flowchart TD
 - Pedal forward shifting all the way to top of the cassette, pedal for at least 3-4 revolutions. The extreme chain angle opens gaps between plates to allow the lube to better work into the chain. Continue pedalling, shifting through all gears on the rear cassette at least once.
 - Stop pedalling and allow Secret Chain Lube to dry for minimum 2 hours, test results show that lube is fully hardened in 24 hours. ZeroFrictionCycling found SSCL to be best dry lube EVER Tested after 8 hours drying, but would be EVEN BETTER after 24 hours!!
 
-**Note:** Once home, follow [Waxed Chain Maintenance at Home](Bicycle-Chain-Waxing.md#waxed-chain-maintenance-at-home)
+**Notes:** 
+
+- Once home, follow [Waxed Chain Maintenance at Home](Bicycle-Chain-Waxing.md#waxed-chain-maintenance-at-home)
+- [SILCA Super Secret Chain Lube with videos](https://silca.cc/collections/chain-lube-wax/products/silca-super-secret-chain-lube)
+
+
 
 -----
 
@@ -143,7 +148,7 @@ flowchart TD
 ## Want Someone to do Initial Chain Cleaning and Wax?
 
 - [MSPEEDWAX Chains](https://moltenspeedwax.com/collections/ybn-chains)
-- [Silca Pre-Waxed Race Chain](https://www.biketiresdirect.com/product/silca-pre-waxed-race-chain)
+- [SILCA Pre-Waxed Race Chain](https://www.biketiresdirect.com/product/silca-pre-waxed-race-chain)
 - [Zero Friction Cycling Bundle Pack](https://zerofrictioncycling.com.au/product-category/bundle/)
 
 - [Contact me for other options](mailto:r26988@gmail.com)
