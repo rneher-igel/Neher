@@ -91,7 +91,7 @@ Comment
 
 - I would recommend a balanced intake of carbs, fatty acids and electrolytes with a hypotonic drink -- A beer and a packet of chips.
 
-### [Pictures and Videos](Docs/Pictures-and-Videos.md)
+### [Pictures, Rides and Videos](Docs/Pictures-and-Videos.md)
 
 ----------
 

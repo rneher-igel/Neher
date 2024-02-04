@@ -8,6 +8,18 @@ UPDATE
 
 -----
 
+## Rides
+
+- [Loop around Sandias](https://www.strava.com/activities/10179981317)
+- [Gilman Tunnels](https://www.strava.com/activities/9635956540)
+- [Go West young man.. Well I’m getting older but don’t feel it.](https://www.strava.com/activities/10459102374)
+- [Today’s history lesson’s and a white bike.](https://www.strava.com/activities/10110780858)
+- [Morning Ride with Tommy. Forgot to unpause at the top.](https://www.strava.com/activities/10087193041)
+- [Not so easy route to the lazy lizard.](https://www.strava.com/activities/9958735844)
+- [North Albuquerque](https://www.strava.com/activities/10016118623)
+- [South Albuquerque](https://www.strava.com/activities/9940294908)
+
+
 ## Videos
 
 - [Sand surfing](https://youtu.be/EdIwXk2kRc4?si=VF5rh4u7WfWpgzD2)
