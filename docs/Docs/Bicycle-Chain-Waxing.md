@@ -108,8 +108,6 @@ flowchart TD
 - Once home, follow [Waxed Chain Maintenance at Home](Bicycle-Chain-Waxing.md#waxed-chain-maintenance-at-home)
 - [SILCA Super Secret Chain Lube with videos](https://silca.cc/collections/chain-lube-wax/products/silca-super-secret-chain-lube)
 
-
-
 -----
 
 -----
@@ -147,8 +145,8 @@ flowchart TD
 
 ## Want Someone to do Initial Chain Cleaning and Wax?
 
+- [CeramicSpeed Chains](https://ceramicspeed.com/collections/ufo-chains)
 - [MSPEEDWAX Chains](https://moltenspeedwax.com/collections/ybn-chains)
 - [SILCA Pre-Waxed Race Chain](https://www.biketiresdirect.com/product/silca-pre-waxed-race-chain)
 - [Zero Friction Cycling Bundle Pack](https://zerofrictioncycling.com.au/product-category/bundle/)
-
 - [Contact me for other options](mailto:r26988@gmail.com)
