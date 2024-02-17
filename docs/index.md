@@ -19,7 +19,7 @@ Comment
 
 - [Become a Wanderer](https://wandrer.earth/about)
 
-   - [How to use the Wandrer browser extension](https://wandrer.earth/install_extension)
+    - [How to use the Wandrer browser extension](https://wandrer.earth/install_extension)
 
 ![image02](Docs/Images/wandrer-2023-nm.png)
 
