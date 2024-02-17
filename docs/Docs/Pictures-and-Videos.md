@@ -2,6 +2,9 @@
 
 <!--
 UPDATE
+<video controls>
+<source src="../videos/HOWTO-Add-Applications-IGEL_OS_12_wo_UMS_AppPortal.mp4" type="video/mp4">
+</video>
 -->
 
 -----
