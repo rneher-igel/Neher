@@ -64,6 +64,7 @@ Comment
 
 ### My Bikes
 
+- [Bike Friday Super Pro](https://bikefriday.com/bike-models/)
 - [Borelais Crestone](https://fatbike.com/collections/crestone-builds/products/crestone-custom-sram)
 - [Orbea Gain](https://www.orbea.com/us-en/ebikes/road/gain/)
 - [Orbea Oiz](https://www.orbea.com/us-en/bicycles/mountain/oiz/)
