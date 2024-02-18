@@ -134,6 +134,7 @@ flowchart TD
 
 ## Reference Links
 
+- [Video: Understanding the INSANE Zero Friction Cycling Test Data!](https://youtu.be/Xu_Q0cqoKeY?si=wLLQ0LHz5pw5i97_)
 - [Zero Friction Cycling](https://zerofrictioncycling.com.au/)
 - [MSPEEDWAX: Why Wax](https://moltenspeedwax.com/pages/why-wax)
 - [BikeRadar: Why I wax my chains](https://www.bikeradar.com/advice/workshop/how-to-wax-a-chain)
