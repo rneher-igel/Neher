@@ -121,13 +121,14 @@ Comment
 ### Comments:
 
 - Don't worry about the weight (bike and you)
-- Setup tires tubeless (I use Stans sealant and bacon strips to plug larger holes)
+- Setup tires tubeless (I use [Stans sealant](https://www.notubes.com/stan-s-tire-sealant-quart) and bacon strips to plug larger holes)
 - Use tire pressure gauge and [SRAM app for tire pressure](https://axs.sram.com/guides/tire/pressure)
 - Use power mode one to come up to speed and then to zero
 - Use power modes as needed to manage effort / speed
 - Recharge if needed for next planned ride
 - If just riding with a group of non e-assistance riders and not providing sag support then expect to use 8% of your battery per 40 miles
-- The Mahle X20 hub system smoothly provides torque that mirrors your input and feels like you always have a nice tailwind vs. crank / mid drive that feels like someone is pulling you along.
+- The [Mahle X20 hub system](https://mahle-smartbike.com/x20/) smoothly provides torque that mirrors your input and feels like you always have a nice tailwind vs. crank / mid drive that feels like someone is pulling you along.
+- The [Mahle eShifters](https://mahle-smartbike.com/eshifters/) allows for quick power adjustment from off to levels one, two, and three.
 
 <!---
 Comment
