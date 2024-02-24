@@ -116,15 +116,13 @@ Comment
 
 ## 2023 Orbea Gain M21E
 
-**Orbea Gain 2023 M21E** —- Bike build: My O custom color, Carbon OMR, Mahle X20 with iX350 battery and E-Shifters, SRAM Force eTap AXS, 40t chainring, 10-44T cassette, tubeless Pirelli Cinturato Gravel H 35mm, bike weight 28 pounds / 12.72 kg.
-
-https://www.orbea.com/us-en/ebikes/road/gain/technology
+[Orbea Gain 2023 M21E](https://www.orbea.com/us-en/ebikes/road/gain/technology) —- **Bike build:** My O custom color, Carbon OMR, Mahle X20 with iX350 battery and E-Shifters, SRAM Force eTap AXS, 40t chainring, 10-44T cassette, tubeless Pirelli Cinturato Gravel H 35mm, bike weight 28 pounds / 12.72 kg.
 
 ### Comments:
 
 - Don't worry about the weight (bike and you)
 - Setup tires tubeless (I use Stans sealant and bacon strips to plug larger holes)
-- Use tire pressure gauge and SRAM app for tire pressure (https://axs.sram.com/guides/tire/pressure)
+- Use tire pressure gauge and [SRAM app for tire pressure](https://axs.sram.com/guides/tire/pressure)
 - Use power mode one to come up to speed and then to zero
 - Use power modes as needed to manage effort / speed
 - Recharge if needed for next planned ride
