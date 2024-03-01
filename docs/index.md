@@ -55,6 +55,7 @@ Comment
 - [Bike Repair Stand](https://feedbacksports.com/collections/bike-repair-stands/products/ultralight-bike-repair-stand?variant=44214811296042)
 - [Cycling Clothing for Long Lasting Comfort](https://www.boure.com/index.html)
 - [Cycling Mirror](https://takealookactive.com/)
+- [Digital Caliper](https://www.amazon.com/dp/B07X8JQ8L5?ref=ppx_yo2ov_dt_b_product_details&th=1)
 - [Disc Brake Pads - TruckerCo](https://www.truckerco.com/disc-brake-pads-retail)
 - [Mahle X20](https://mahle-smartbike.com/news-event/experience-next-level-cycling-with-the-orbea-gain-ebike-and-mahle-x20-system/)
 - [Pedals](https://www.crankbrothers.com/collections/eggbeater/products/eggbeater-1?variant=53958723335)
