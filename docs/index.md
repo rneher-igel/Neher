@@ -23,6 +23,18 @@ Comment
 
 ![image02](Docs/Images/wandrer-2023-nm.png)
 
+### Routing with Garmin
+
+- Use [RidewithGPS](https://ridewithgps.com/routes/new) with the [Wandrer Map Overlay](https://wandrer.earth/install_extension)
+- Save the route as a fit file to your PC
+- Connect Garmin to PC via USB data cable (If it does not mount, your USB cable may only be used for charging)
+- Copy the fit file to the Garmin `NewFiles` folder `(/GARMIN/Garmin/NewFiles)`
+- Unmount the Garmin from PC
+- Disconnect Garmin from PC USB cable
+- Additional notes can be found in [Garmin Edge 530 - Courses](https://www8.garmin.com/manuals/webhelp/edge530/EN-US/GUID-7416CBA5-CEA0-45A5-B7D8-4D9B36419E6B.html)
+- Additional notes can be found in [Garmin Edge 840 - Courses](https://www8.garmin.com/manuals/webhelp/GUID-16B12CFE-F96E-4DE9-9F5F-8C4A5936D3B9/EN-US/GUID-7416CBA5-CEA0-45A5-B7D8-4D9B36419E6B.html)
+
+
 ### Tubeless road tires
 
 - As with any tech, shifting (friction vs. indexed) or brakes (rim vs. disc), tubeless road tires require some education and practice on setup, maintenance (monitor and add sealant as needed), and how to fix on the road and at home. All of my bikes are now tubeless except for one road bike that does not have tubeless ready rims. On that road bike I use tubes with removable valve cores and put Stans sealant in the tubes.
@@ -49,6 +61,7 @@ Comment
 
 - [Base layers](https://merino.tech/)
 - [Bike Chain Sleeve](http://www.whitelightningco.com/products/johnnys/chain-johnny)
+- [Bike Computers - Garmin](https://www.garmin.com/en-US/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights)
 - [Bike Packing Rack](https://aeroe.com/)
 - [Bike Rack - 1UP](https://1up-usa.com/)
 - [Bike Rack - Saris](https://saris.com/collections/racks)
