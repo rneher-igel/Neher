@@ -1,8 +1,8 @@
 # Neher
 
-Neher is a repository hosting of my documentation. This documentation is without any warranty or support.
-
 `"one bike ride away from figuring it all out" - Tom Ritchey`
+
+Neher is a repository hosting of my documentation. This documentation is without any warranty or support.
 
 ----------
 
