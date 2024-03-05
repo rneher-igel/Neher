@@ -2,6 +2,8 @@
 
 `"one bike ride away from figuring it all out" - Tom Ritchey`
 
+`"My bikes are my medical devices, they measure my lack of fitness and how out of shape I am!" - anonymous`
+
 Neher is a repository hosting of my documentation. This documentation is without any warranty or support.
 
 ----------
