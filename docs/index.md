@@ -43,6 +43,8 @@ Comment
 
 - As with any tech, shifting (friction vs. indexed) or brakes (rim vs. disc), tubeless road tires require some education and practice on setup, maintenance (monitor and add sealant as needed), and how to fix on the road and at home. All of my bikes are now tubeless except for one road bike that does not have tubeless ready rims. On that road bike I use tubes with removable valve cores and put Stans sealant in the tubes.
 
+![image05](Docs/Images/bacon_strip-01.png)
+![image06](Docs/Images/bacon_strip-02.png)
 
 ### Road Tires with Tubes
 
