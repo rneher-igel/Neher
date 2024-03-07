@@ -29,6 +29,8 @@ Comment
 
 ### Routing with Garmin
 
+**NOTE:** [Manage and Update Your Garmin Device](https://www.garmin.com/en-US/software/express)
+
 - Use [RidewithGPS](https://ridewithgps.com/routes/new) with the [Wandrer Map Overlay](https://wandrer.earth/install_extension)
 - Save the route as a fit file to your PC
 - Connect Garmin to PC via USB data cable (If it does not mount, your USB cable may only be used for charging)
