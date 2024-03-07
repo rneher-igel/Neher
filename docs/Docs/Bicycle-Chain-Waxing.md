@@ -130,7 +130,7 @@ flowchart TD
 **Notes:** 
 
 - SRAM chains with “HARDCHROME” – so Force / Red or x01  xx1 – they are the hardiest wearing chains in the world by a large margin – no other chains wear resistance matches SRAM HARDCHROME wear protection.
-- SRAM flat top chains have oversize rollers so you will get a false low wear measure. 0.5 on a Flat top chains is going to be circa 0.7 on a normal 11/128 standard chain. 
+- SRAM flat top chains have oversize rollers so you will get a false low wear measure. 0.5 on a Flat top chains is going to be circa 0.7 on a normal 11/12 standard chain. 
 
 ## Reference Links
 
