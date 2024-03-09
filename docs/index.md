@@ -127,8 +127,9 @@ Measurement Id: G-9LJPNGE4R5
 
 **NOTES:**
 
-- Replace brake pads when material and backer plate is 3MM or less (measure with digital caliper)
-- Replace brake rotor when rotor track thickness is 1.55MM or less (measure with digital caliper)
+- [Replace brake pads when material and backer plate is 3MM or less (measure with digital caliper)](https://www.sram.com/en/service/articles/SRAM-Brake-Pad-Overview)
+- [Replace brake rotor when rotor track thickness is 1.55MM or less (measure with digital caliper)](https://www.sram.com/en/service/articles/SRAM-Brake-Pad-Overview)
+- [Replace Chain at 0.5% wear](Docs/Bicycle-Chain-Waxing.md#replace-chain-at-05-wear)
 
 ### Nutrition Advice
 
