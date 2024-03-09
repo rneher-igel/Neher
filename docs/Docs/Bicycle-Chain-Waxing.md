@@ -158,12 +158,12 @@ flowchart TD
 - [Master links - YBN](https://moltenspeedwax.com/collections/ybn-master-links)
 - [Master links - SRAM Road](https://www.amazon.com/gp/product/B08563V4GH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 - [Master links - SRAM Eagle](https://www.amazon.com/gp/product/B08563V4GH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
-- [Chain break tool](https://www.amazon.com/Park-Tool-CT-5-Chain-Brute/dp/B000OYHCHG?ref_=ast_sto_dp)
+- [Chain Break Tool](https://www.amazon.com/Park-Tool-CT-5-Chain-Brute/dp/B000OYHCHG?ref_=ast_sto_dp)
 - [Chain Wear Tester](https://www.amazon.com/dp/B00DT01OBC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - [Chain Master Link Pliers](https://www.amazon.com/Park-Tool-Master-Pliers-MLP-1-2/dp/B00D9NW32I?ref_=ast_sto_dp&th=1)
 - [Wax](https://moltenspeedwax.com/collections/molten-speed-wax)
-- [Wax swisher tool](https://moltenspeedwax.com/collections/tools-miscellaneous/products/swisher-tool)
-- [Slow cooker](https://www.amazon.com/gp/product/B0969TXFLY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Wax Swisher Tool](https://moltenspeedwax.com/collections/tools-miscellaneous/products/swisher-tool)
+- [Slow Cooker](https://www.amazon.com/gp/product/B0969TXFLY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Candy Thermometer](https://www.amazon.com/gp/product/B0969TXFLY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ### Optional items
