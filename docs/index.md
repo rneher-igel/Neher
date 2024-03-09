@@ -119,10 +119,15 @@ Measurement Id: G-9LJPNGE4R5
 - [Road Bike Rider](https://www.roadbikerider.com/)
 - [Russ McCoy - Coaching](https://russmccoy.wixsite.com/russmccoy)
 - [Russ McCoy - New Mexico Cycling](https://russmccoy.wixsite.com/newmexicocycling)
-- [SRAM Brake Pads - Which SRAM brake pads do you need?](https://www.sram.com/en/service/articles/SRAM-Brake-Pad-Overview)
+- [SRAM Brake Pads - Which SRAM brake pads do you need? - When to replace pads and rotors](https://www.sram.com/en/service/articles/SRAM-Brake-Pad-Overview)
 - [SRAM Tire Pressure](https://axs.sram.com/guides/tire/pressure)
 - [Strava](https://www.strava.com/)
 - [TrailForks](https://www.trailforks.com/about/)
+
+**NOTES:**
+
+- Replace brake pads when material and backer plate is 3MM or less (measure with digital caliper)
+- Replace brake rotor when rotor track thickness is 1.55MM or less (measure with digital caliper)
 
 ### Nutrition Advice
 
