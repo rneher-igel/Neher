@@ -12,6 +12,15 @@ Neher is a repository hosting of my documentation. This documentation is without
 
 <!---
 Comment
+
+https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/
+
+https://analytics.google.com/analytics/web/#/p431202354/reports/intelligenthome
+
+Stream Name: Neher-Bike
+Stream URL: https://rneher-igel.github.io/Neher/
+Stream ID: 7617549146
+Measurement Id: G-9LJPNGE4R5
 -->
 
 ## Bicycle
