@@ -155,9 +155,9 @@ flowchart TD
 ## Chain Waxing Starter Kit
 
 - Two waxed chains - see links above
-- [Master links - YBN](https://moltenspeedwax.com/collections/ybn-master-links)
-- [Master links - SRAM Road](https://www.amazon.com/gp/product/B08563V4GH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
-- [Master links - SRAM Eagle](https://www.amazon.com/gp/product/B08563V4GH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
+- [Master Links - YBN](https://moltenspeedwax.com/collections/ybn-master-links)
+- [Master Links - SRAM Road](https://www.amazon.com/gp/product/B08563V4GH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
+- [Master Links - SRAM Eagle](https://www.amazon.com/gp/product/B08563V4GH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 - [Chain Break Tool](https://www.amazon.com/Park-Tool-CT-5-Chain-Brute/dp/B000OYHCHG?ref_=ast_sto_dp)
 - [Chain Wear Tester](https://www.amazon.com/dp/B00DT01OBC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - [Chain Master Link Pliers](https://www.amazon.com/Park-Tool-Master-Pliers-MLP-1-2/dp/B00D9NW32I?ref_=ast_sto_dp&th=1)
