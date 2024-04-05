@@ -4,6 +4,8 @@
 
 `"My bikes are my medical devices, they measure my lack of fitness and how out of shape I am!" - anonymous`
 
+`"A million years from now only three things will remain: cockroaches, Hostess Twinkies, and vi." - anonymous`
+
 Neher is a repository hosting of my documentation. This documentation is without any warranty or support.
 
 ----------
