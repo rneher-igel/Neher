@@ -24,6 +24,8 @@ UPDATE
 
 ## Danube from Passau to Vienna
 
+**Summary:** Flew into Munich, took train to Passau, rented bikes in Passau, rode to Vienna, dropped off bikes, took train back to Munich, experienced Oktoberfest, and then flew home.
+
 - [Day 1 - Passau to Aschach](https://www.strava.com/activities/9854832339)
 - [Day 2 - Aschach to Mauthausen](https://www.strava.com/activities/9860710343)
 - [Day 3 - Mauthausen to Ybbs](https://www.strava.com/activities/9868959003)
