@@ -92,15 +92,17 @@ flowchart TD
 
 -----
 
-## Waxed Chain Maintenance away from home
+## Waxed Chain Maintenance away from home (UPDATED)
 
-**Note:** [Steps from Zero Friction Cycling](https://zerofrictioncycling.com.au/wp-content/uploads/2020/10/Lubricant-detail-review-Silca-super-secret-drip-v1.1.pdf) on use of SILCA Super Secret Drip Lube.
+[Stop Wasting Your CHAIN LUBE! Know the BEST Way to Apply It!](https://youtu.be/Vot15ro-fcE?si=Jcr4AM8XifbXqph6)
 
-- Be sure to have chain line relatively straight (53/15 or so).
+[Steps from Zero Friction Cycling](https://zerofrictioncycling.com.au/wp-content/uploads/2020/10/Lubricant-detail-review-Silca-super-secret-drip-v1.1.pdf) on use of SILCA Super Secret Drip Lube.
+
+- Cross chain (large chain ring; large rear cassette cog)
 - Shake bottle well and open tip halfway.
-- Begin applying drip lube to top of rollers while pedalling backward. Be sure to apply at least 1 drop per roller and no more than 2 drops per roller while continuing to backpedal..
+- Begin applying drip lube to top of rollers close to rear cog while pedalling backward. Be sure to apply at least 1 drop per roller and no more than 2 drops per roller while continuing to backpedal..
 - Use fingers on top-bottom of chain to work the lube into rollers while back pedalling at least 3-4 revolutions.
-- Pedal forward shifting all the way to top of the cassette, pedal for at least 3-4 revolutions. The extreme chain angle opens gaps between plates to allow the lube to better work into the chain. Continue pedalling, shifting through all gears on the rear cassette at least once.
+- Pedal forward in the top of the cassette, pedal for at least 3-4 revolutions. The extreme chain angle opens gaps between plates to allow the lube to better work into the chain. Continue pedalling, shifting through all gears on the rear cassette at least once.
 - Stop pedalling and allow Secret Chain Lube to dry for minimum 2 hours, test results show that lube is fully hardened in 24 hours. ZeroFrictionCycling found SSCL to be best dry lube EVER Tested after 8 hours drying, but would be EVEN BETTER after 24 hours!!
 
 **Notes:** 
