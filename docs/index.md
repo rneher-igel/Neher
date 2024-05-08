@@ -49,6 +49,7 @@ Measurement Id: G-9LJPNGE4R5
 - Unmount the Garmin from PC
 - Disconnect Garmin from PC USB cable
 - Additional notes can be found in [Garmin Edge 530 - Courses](https://www8.garmin.com/manuals/webhelp/edge530/EN-US/GUID-7416CBA5-CEA0-45A5-B7D8-4D9B36419E6B.html)
+- Additional notes can be found in [Garmin Edge 540 - Courses](https://www8.garmin.com/manuals/webhelp/GUID-17DE938E-466A-4746-BDBF-7A6FC1B3A32C/EN-US/GUID-7416CBA5-CEA0-45A5-B7D8-4D9B36419E6B.html)
 - Additional notes can be found in [Garmin Edge 840 - Courses](https://www8.garmin.com/manuals/webhelp/GUID-16B12CFE-F96E-4DE9-9F5F-8C4A5936D3B9/EN-US/GUID-7416CBA5-CEA0-45A5-B7D8-4D9B36419E6B.html)
 
 
