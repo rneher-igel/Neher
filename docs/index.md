@@ -125,6 +125,7 @@ Measurement Id: G-9LJPNGE4R5
 - [Russ McCoy - Coaching](https://russmccoy.wixsite.com/russmccoy)
 - [Russ McCoy - New Mexico Cycling](https://russmccoy.wixsite.com/newmexicocycling)
 - [SRAM Brake Pads - Which SRAM brake pads do you need? - When to replace pads and rotors](https://www.sram.com/en/service/articles/SRAM-Brake-Pad-Overview)
+- [SRAM Drivetrain Adjustment Tool](https://www.sram.com/globalassets/document-hierarchy/service-manuals/sram-drivetrain-adjustment-tools.pdf)
 - [SRAM Tire Pressure](https://axs.sram.com/guides/tire/pressure)
 - [Strava](https://www.strava.com/)
 - [TrailForks](https://www.trailforks.com/about/)
