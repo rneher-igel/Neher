@@ -121,6 +121,13 @@ flowchart TD
 
 **Note:** Replace the master link prior to the 6th time if you notice that removal or install of master link is too easy.
 
+### Wippermann Connex Link
+
+- [Connex link](https://www.connexchain.com/en/connectors/detail/connex-link) can be reused infinitely as the design relies on plate shape for retention as opposed to a tolerance fit.
+- Chains can be easily opened and closed by hand – no tools required.
+- Available for 12-, 11-, 10-, 9- and 8-speed chains (do not work with SRAM flat top chains).
+- 12-, 11-, 10-speed links are expensive and similar in cost to 6 [YBN QRS links](https://moltenspeedwax.com/collections/ybn-master-links).
+
 -----
 
 -----
