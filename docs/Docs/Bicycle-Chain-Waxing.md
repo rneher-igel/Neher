@@ -127,6 +127,7 @@ flowchart TD
 - Chains can be easily opened and closed by hand – no tools required.
 - Available for 12-, 11-, 10-, 9- and 8-speed chains (do not work with SRAM flat top chains).
 - 12-, 11-, 10-speed links are expensive and similar in cost to 6 [YBN QRS links](https://moltenspeedwax.com/collections/ybn-master-links).
+- [Assembly and Operating Instruction Connex Link](https://medien.connexchain.com/website/downloads/bedienungsanleitungen/Montage_Connex_Link_2015_englisch.pdf)
 
 -----
 
