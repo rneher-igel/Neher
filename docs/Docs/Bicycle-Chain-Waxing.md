@@ -47,8 +47,9 @@ flowchart TD
 - Add dried chain to `Slow Cooker` pot and wait until heat returns to the above temperature
 - Swish chain in wax for 1 minute
 - Remove chain and hang to dry
-- Swish master link in wax
-- Remove master link and dry
+- Optional on master link ( [Chain QUICK LINKS: Are they keeping you from waxing?](https://youtu.be/G-W3zJMxazM?si=Zn3HKGfLb250YXtI) )
+    - Swish master link in wax
+    - Remove master link and dry
 
 **Note:** Buy a Candy Thermometer and calibrate with boiling water.
 
