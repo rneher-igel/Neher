@@ -42,11 +42,15 @@ UPDATE
 ## Videos
 
 - [Sand surfing](https://youtu.be/EdIwXk2kRc4?si=VF5rh4u7WfWpgzD2)
-- [Bike Packing - Day 1 - 230715](https://youtu.be/FYII_S_Hcqs?si=aZFUwIEhWy9Qgy66)
-- [Bike Packing - Day 2 - 230716](https://youtu.be/JpMxcMa8OM4?si=i4hicsAcyzzVSOhz)
+- [Jemez - Bike Packing - Day 1 - 230715](https://youtu.be/FYII_S_Hcqs?si=aZFUwIEhWy9Qgy66)
+- [Jemez - Bike Packing - Day 2 - 230716](https://youtu.be/JpMxcMa8OM4?si=i4hicsAcyzzVSOhz)
 - [Terraform Backyard - Part 1](https://youtu.be/bS7sgh5xDwM?si=FOjVlpPx_NH8jQVn)
 - [Terraform Backyard - Part 2](https://youtu.be/sKPluSoEnXI?si=wgVdKXDEE7jrDnGF)
 - [Gilman Tunnels Loop](https://youtu.be/BH3MiV6nWh4?si=JnFpp0Qz_sCIcu7g)
+- [Mount Taylor - Bike Packing - 240601-02](https://youtu.be/9hoCJsxpCWo)
+- [Santa Fe Area - Part 1 - 240608](https://youtu.be/pjaa4q-WLSA)
+- [Santa Fe Area - Part 2 - 240608](https://youtu.be/7jMtdkwnXxY)
+- [Estes Rocky Mountain Lower Loop with Chasm Falls - 240617](https://youtu.be/iBjIhGd4CV0)
 
 ## Pictures
 
