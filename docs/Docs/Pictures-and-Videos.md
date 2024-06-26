@@ -22,6 +22,10 @@ UPDATE
 - [North Albuquerque](https://www.strava.com/activities/10016118623)
 - [South Albuquerque](https://www.strava.com/activities/9940294908)
 
+-----
+
+-----
+
 ## Danube from Passau to Vienna
 
 **Summary:** Flew into Munich, took train to Passau, rented bikes in Passau, rode to Vienna, dropped off bikes, took train back to Munich, experienced Oktoberfest, and then flew home.
@@ -38,6 +42,10 @@ UPDATE
 ![danube01](Images/danube-01.jpeg)
 ![danube02](Images/danube-02.jpeg)
 ![danube03](Images/danube-03.jpeg)
+
+-----
+
+-----
 
 ## Videos
 
