@@ -130,6 +130,11 @@ flowchart TD
 - 12-, 11-, 10-speed links are expensive and similar in cost to 6 [YBN QRS links](https://moltenspeedwax.com/collections/ybn-master-links).
 - [Assembly and Operating Instruction Connex Link](https://medien.connexchain.com/website/downloads/bedienungsanleitungen/Montage_Connex_Link_2015_englisch.pdf)
 
+### Other options for links
+
+- [Master Links - YBN](https://moltenspeedwax.com/collections/ybn-master-links)
+- [Master Links - Reusable KMC links](https://kmcchain.us/collections/connectors)
+
 -----
 
 -----
