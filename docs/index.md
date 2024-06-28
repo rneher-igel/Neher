@@ -38,7 +38,11 @@ Measurement Id: G-9LJPNGE4R5
 
 ![image02](Docs/Images/wandrer-2023-nm.png)
 
-### Routing with Garmin
+-----
+
+-----
+
+## Routing with Garmin
 
 **NOTE:** [Manage and Update Your Garmin Device](https://www.garmin.com/en-US/software/express)
 
@@ -52,8 +56,11 @@ Measurement Id: G-9LJPNGE4R5
 - Additional notes can be found in [Garmin Edge 540 - Courses](https://www8.garmin.com/manuals/webhelp/GUID-17DE938E-466A-4746-BDBF-7A6FC1B3A32C/EN-US/GUID-7416CBA5-CEA0-45A5-B7D8-4D9B36419E6B.html)
 - Additional notes can be found in [Garmin Edge 840 - Courses](https://www8.garmin.com/manuals/webhelp/GUID-16B12CFE-F96E-4DE9-9F5F-8C4A5936D3B9/EN-US/GUID-7416CBA5-CEA0-45A5-B7D8-4D9B36419E6B.html)
 
+-----
 
-### Tubeless road tires
+-----
+
+## Tubeless road tires
 
 - As with any tech, shifting (friction vs. indexed) or brakes (rim vs. disc), tubeless road tires require some education and practice on setup, maintenance (monitor and add sealant as needed), and how to fix on the road and at home. All of my bikes are now tubeless except for one road bike that does not have tubeless ready rims. On that road bike I use tubes with removable valve cores and put Stans sealant in the tubes.
 
@@ -62,7 +69,11 @@ Measurement Id: G-9LJPNGE4R5
 ![image05](Docs/Images/bacon_strip-01.png)
 ![image06](Docs/Images/bacon_strip-02.png)
 
-### Road Tires with Tubes
+-----
+
+-----
+
+## Road Tires with Tubes
 
 - For my road bikes with tubes, I run Continental Gator Hardshell (28MM), tubes with removable valve cores, Stans sealant in the tubes, and 80 PSI pressure. I top off with Stans (1 oz) every couple of months. Over two years without a flat in New Mexico. 
 
@@ -72,14 +83,22 @@ Measurement Id: G-9LJPNGE4R5
 - **Q:** Can I add sealant to my tubes or tubular tires?
 - **A:** Yes, if the tube or tubular has a removable valve core. If there are two opposing flat surfaces just below the top of the valve, you can use our valve tool to unthread the core and sealant can be installed. We recommend injecting 1-2 ounces (30-60ml) of sealant into tubes or tubular tires. Sealant will not damage tubular tires.
 
-### Use of e-road bikes on group rides for sag wagon support:
+-----
+
+-----
+
+## Use of e-road bikes on group rides for sag wagon support:
 
 - Carries extra water, tubes, food, clothes, etc.
 - Drops back (on climbs, windy days) to pace dropped riders (mechanical / flats) back to the group 
 - Does most of the pace setting on windy  segments / days
 - If just riding with a group of non e-assistance riders and not providing sag support then expect to use 8% of your battery per 40 miles
 
-### Equipment
+-----
+
+-----
+
+## Equipment
 
 - [Base layers](https://merino.tech/)
 - [Bike Chain Sleeve](http://www.whitelightningco.com/products/johnnys/chain-johnny)
@@ -102,7 +121,11 @@ Measurement Id: G-9LJPNGE4R5
 - [Tubeless Sealant](https://www.notubes.com/stan-s-tire-sealant-quart)
 - [Wool Cycling Jerseys](https://www.oregoncyclewear.com/woolcyclingjerseys.html)
 
-### My Bikes
+-----
+
+-----
+
+## My Bikes
 
 - [Bike Friday Super Pro](https://bikefriday.com/bike-models/)
 - [Borelais Crestone](https://fatbike.com/collections/crestone-builds/products/crestone-custom-sram)
@@ -110,7 +133,11 @@ Measurement Id: G-9LJPNGE4R5
 - [Orbea Oiz](https://www.orbea.com/us-en/bicycles/mountain/oiz/)
 - [Trek Émonda](https://www.trekbikes.com/us/en_US/emonda/)
 
-### My Links
+-----
+
+-----
+
+## My Links
 
 - [BBBike Garmin Custom Map Extracts](https://extract.bbbike.org/garmin.html)
 - [Bicycle Rolling Resistance](https://www.bicyclerollingresistance.com/)
@@ -139,11 +166,19 @@ Measurement Id: G-9LJPNGE4R5
 - [Replace Chain at 0.5% wear](Docs/Bicycle-Chain-Waxing.md#replace-chain-at-05-wear)
 - [Torque Specifications and Concepts](https://www.parktool.com/en-us/blog/repair-help/torque-specifications-and-concepts)
 
-### Nutrition Advice
+-----
+
+-----
+
+## Nutrition Advice
 
 - I would recommend a balanced intake of carbs, fatty acids and electrolytes with a hypotonic drink -- A beer and a packet of chips.
 
-### [Pictures, Rides and Videos](Docs/Pictures-and-Videos.md)
+-----
+
+-----
+
+## [Pictures, Rides and Videos](Docs/Pictures-and-Videos.md)
 
 ----------
 
