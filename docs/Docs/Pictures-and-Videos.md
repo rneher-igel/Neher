@@ -1,4 +1,4 @@
-# Pictures and Videos
+# Pictures, Rides and Videos
 
 <!--
 UPDATE
@@ -22,27 +22,6 @@ UPDATE
 - [Not so easy route to the lazy lizard.](https://www.strava.com/activities/9958735844)
 - [North Albuquerque](https://www.strava.com/activities/10016118623)
 - [South Albuquerque](https://www.strava.com/activities/9940294908)
-
------
-
------
-
-## Danube from Passau to Vienna
-
-**Summary:** Flew into Munich, took train to Passau, rented bikes in Passau, rode to Vienna, dropped off bikes, took train back to Munich, experienced Oktoberfest, and then flew home.
-
-- [Day 1 - Passau to Aschach](https://www.strava.com/activities/9854832339)
-- [Day 2 - Aschach to Mauthausen](https://www.strava.com/activities/9860710343)
-- [Day 3 - Mauthausen to Ybbs](https://www.strava.com/activities/9868959003)
-- [Day 4 - Ybbs to Spitz](https://www.strava.com/activities/9875119944)
-- [Day 4 - Hike to Castle](https://www.strava.com/activities/9875119778)
-- [Day 5 - Spitz to Tulln](https://www.strava.com/activities/9879722065)
-- [Day 6 - Tulln to Vienna](https://www.strava.com/activities/9885616836)
-- [Day 6 - Afternoon Walk in Vienna](https://www.strava.com/activities/9886466537)
-
-![danube01](Images/danube-01.jpeg)
-![danube02](Images/danube-02.jpeg)
-![danube03](Images/danube-03.jpeg)
 
 -----
 
@@ -101,3 +80,24 @@ UPDATE
 ![image025](Images/BF-02.jpeg)
 ![image026](Images/BF-03.jpeg)
 ![image027](Images/BF-04.jpeg)
+
+-----
+
+-----
+
+## Danube from Passau to Vienna
+
+**Summary:** Flew into Munich, took train to Passau, rented bikes in Passau, rode to Vienna, dropped off bikes, took train back to Munich, experienced Oktoberfest, and then flew home.
+
+- [Day 1 - Passau to Aschach](https://www.strava.com/activities/9854832339)
+- [Day 2 - Aschach to Mauthausen](https://www.strava.com/activities/9860710343)
+- [Day 3 - Mauthausen to Ybbs](https://www.strava.com/activities/9868959003)
+- [Day 4 - Ybbs to Spitz](https://www.strava.com/activities/9875119944)
+- [Day 4 - Hike to Castle](https://www.strava.com/activities/9875119778)
+- [Day 5 - Spitz to Tulln](https://www.strava.com/activities/9879722065)
+- [Day 6 - Tulln to Vienna](https://www.strava.com/activities/9885616836)
+- [Day 6 - Afternoon Walk in Vienna](https://www.strava.com/activities/9886466537)
+
+![danube01](Images/danube-01.jpeg)
+![danube02](Images/danube-02.jpeg)
+![danube03](Images/danube-03.jpeg)
