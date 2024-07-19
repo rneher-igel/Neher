@@ -214,6 +214,20 @@ Measurement Id: G-9LJPNGE4R5
 - The [Mahle X20 hub system](https://mahle-smartbike.com/x20/) smoothly provides torque that mirrors your input and feels like you always have a nice tailwind vs. crank / mid drive that feels like someone is pulling you along.
 - The [Mahle eShifters](https://mahle-smartbike.com/eshifters/) allows for quick power adjustment from off to levels one, two, and three.
 
+----------
+
+----------
+
+## Garmin Maps via BBBike
+
+- [BBBike Garmin Custom Map Extracts](https://extract.bbbike.org/garmin.html)
+
+- <a href="Docs/Maps/gmapsupp-NM-240718.zip" download>Sample New Mexico Map Extract - 18 July 2024</a>
+
+**Note:** On Garmin, place the img file into Garmin folder.
+
+![image04](Docs/Images/bbbike-map-extract-nm.png)
+
 <!---
 Comment
 ### QR Codes
