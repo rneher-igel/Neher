@@ -232,7 +232,7 @@ Measurement Id: G-9LJPNGE4R5
 Comment
 ### QR Codes
 
-- Foo
+- Comment
 
 ![image001](Docs/Images/QR-docs.png)
 -->
