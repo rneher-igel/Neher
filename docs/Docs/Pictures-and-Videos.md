@@ -13,6 +13,7 @@ UPDATE
 
 ## Rides
 
+- [Molas Lake to Telluride via Ophir Pass](https://www.strava.com/activities/12174252026)
 - [Rocky Mountain National Park - Old Falls River Loop](https://www.strava.com/activities/11817194527)
 - [Loop around Sandias](https://www.strava.com/activities/10179981317)
 - [Gilman Tunnels](https://www.strava.com/activities/9635956540)
