@@ -30,6 +30,7 @@ UPDATE
 
 ## Videos
 
+- [Molas Lake to Telluride via Ophir Pass - 240817](https://youtu.be/95h8Jhez-yc)
 - [Sand surfing](https://youtu.be/EdIwXk2kRc4?si=VF5rh4u7WfWpgzD2)
 - [Jemez - Bike Packing - Day 1 - 230715](https://youtu.be/FYII_S_Hcqs?si=aZFUwIEhWy9Qgy66)
 - [Jemez - Bike Packing - Day 2 - 230716](https://youtu.be/JpMxcMa8OM4?si=i4hicsAcyzzVSOhz)
