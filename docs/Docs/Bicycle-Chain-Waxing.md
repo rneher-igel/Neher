@@ -4,6 +4,8 @@
 UPDATE
 -->
 
+## [SILCA Velo: Wax vs Oil: Which is the BETTER Chain Lube?](https://youtu.be/-vL_Eb3z9EE?si=cGmf74Adn5yugQ2l)
+
 -----
 
 -----
@@ -154,6 +156,7 @@ flowchart TD
 - [Zero Friction Cycling](https://zerofrictioncycling.com.au/)
 - [MSPEEDWAX: Why Wax](https://moltenspeedwax.com/pages/why-wax)
 - [BikeRadar: Why I wax my chains](https://www.bikeradar.com/advice/workshop/how-to-wax-a-chain)
+- [SILCA Velo: Chain Waxing? Avoid These 7 Common Failures!](https://youtu.be/l6OT503o6wY?si=AcuJn8pmDPSoP89K)
 
 ## Final Notes
 
