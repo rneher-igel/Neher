@@ -143,7 +143,10 @@ flowchart TD
 
 ## Replace Chain at 0.5% wear
 
-- Use [Shimano TL-CN-42 checker](https://www.amazon.com/dp/B00DT01OBC?psc=1&ref=ppx_yo2ov_dt_b_product_details) to measure wear. Any other tool may give false reading.
+**NOTE:** Any other tool may give false reading.
+
+- [Shimano TL-CN-42 checker](https://www.amazon.com/dp/B00DT01OBC?psc=1&ref=ppx_yo2ov_dt_b_product_details) to measure wear.
+- [Abbey Bike Tools - L. L. Chain Wear Tool](https://www.abbeybiketools.com/collections/new-additions/products/chain-wear-tool)
 
 **Notes:** 
 
