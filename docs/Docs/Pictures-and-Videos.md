@@ -13,6 +13,7 @@ UPDATE
 
 ## Rides
 
+- [Fall colors on ride to top of Santa Fe Ski Area - 240928](https://www.strava.com/activities/12527246015)
 - [Molas Lake to Telluride via Ophir Pass](https://www.strava.com/activities/12174252026)
 - [Rocky Mountain National Park - Old Falls River Loop](https://www.strava.com/activities/11817194527)
 - [Loop around Sandias](https://www.strava.com/activities/10179981317)
@@ -30,6 +31,7 @@ UPDATE
 
 ## Videos
 
+- [Fall colors on ride to top of Santa Fe Ski Area - 240928](https://youtu.be/FQxCcJpoLhk)
 - [Molas Lake to Telluride via Ophir Pass - 240817](https://youtu.be/95h8Jhez-yc)
 - [Sand surfing](https://youtu.be/EdIwXk2kRc4?si=VF5rh4u7WfWpgzD2)
 - [Jemez - Bike Packing - Day 1 - 230715](https://youtu.be/FYII_S_Hcqs?si=aZFUwIEhWy9Qgy66)
