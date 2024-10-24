@@ -175,6 +175,15 @@ Measurement Id: G-9LJPNGE4R5
 
 - I would recommend a balanced intake of carbs, fatty acids and electrolytes with a hypotonic drink -- A beer and a packet of chips.
 
+### What I found for riding many hours in 100+ degree weather:
+
+- 24 ounces of water per hour
+- A [Rolaids](https://www.rolaids.com/en-us/antacids/extra-strength-tablets) tablet every hour starting on hour 2
+- One [Aussie Bites](https://www.costcobusinessdelivery.com/Universal-Bakery-Organic-Aussie-Bites%2C-30-oz.product.100206943.html) (130 calories) every hour
+- Pint of [milk](https://www.nutritionix.com/food/whole-milk) every 3 hours
+
+**Note:** If I feel like I’m getting a little jittery / bonk – Drink a pint of milk.
+
 -----
 
 -----
