@@ -2,6 +2,8 @@
 
 `"one bike ride away from figuring it all out" - Tom Ritchey`
 
+`"It never gets easier, you just go faster." -Greg LeMond`
+
 `"My bikes are my medical devices, they measure my lack of fitness and how out of shape I am!" - anonymous`
 
 `"A million years from now only three things will remain: cockroaches, Hostess Twinkies, and vi." - anonymous`
