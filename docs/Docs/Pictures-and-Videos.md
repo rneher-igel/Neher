@@ -16,6 +16,9 @@ UPDATE
 - [Collection of Loveland Colorado Rides](https://ridewithgps.com/collections/3162931)
 - [Fall colors on ride to top of Santa Fe Ski Area](https://www.strava.com/activities/12527246015)
 - [Molas Lake to Telluride via Ophir Pass](https://www.strava.com/activities/12174252026)
+
+<iframe src="https://ridewithgps.com/embeds?type=route&id=48000740&sampleGraph=true&distanceMarkers=true&showPhotos=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
 - [Rocky Mountain National Park - Old Falls River Loop](https://www.strava.com/activities/11817194527)
 - [Loop around Sandias](https://www.strava.com/activities/10179981317)
 - [Gilman Tunnels](https://www.strava.com/activities/9635956540)
