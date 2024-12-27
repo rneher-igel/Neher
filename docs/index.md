@@ -190,7 +190,13 @@ Measurement Id: G-9LJPNGE4R5
 
 -----
 
-## [Pictures, Rides and Videos](Docs/Pictures-and-Videos.md)
+## [Rides and Videos](Docs/Rides-and-Videos.md)
+
+-----
+
+-----
+
+## [Pictures](Docs/Pictures.md)
 
 ----------
 
