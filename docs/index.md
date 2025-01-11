@@ -38,6 +38,7 @@ Measurement Id: G-9LJPNGE4R5
 
     - [How to use the Wandrer browser extension](https://wandrer.earth/install_extension)
 
+![image02](Docs/Images/wandrer-2024-nm.png)
 ![image02](Docs/Images/wandrer-2023-nm.png)
 
 -----
