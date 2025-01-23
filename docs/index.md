@@ -152,6 +152,7 @@ Measurement Id: G-9LJPNGE4R5
 - [Bike Shop - Loveland, CO](https://www.breakaway-cycles.com/)
 - [Bike Tires Direct](https://www.biketiresdirect.com/)
 - [Bike Tools Etc!](https://www.biketoolsetc.com/)
+- [Gravel Adventure Field Guide](https://graveladventurefieldguide.com/)
 - [NiteRider Technical Lighting](https://www.niterider.com/)
 - [Park Tool: Chain Length Sizing](https://www.parktool.com/en-us/blog/repair-help/chain-length-sizing)
 - [Road Bike Rider](https://www.roadbikerider.com/)
