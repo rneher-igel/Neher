@@ -20,8 +20,15 @@ UPDATE
 <iframe src="https://ridewithgps.com/embeds?type=route&id=48000740&sampleGraph=true&distanceMarkers=true&showPhotos=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 - [Rocky Mountain National Park - Old Falls River Loop](https://www.strava.com/activities/11817194527)
+
+<iframe src="https://ridewithgps.com/embeds?type=route&id=47419506&sampleGraph=true&distanceMarkers=true&showPhotos=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
 - [Loop around Sandias](https://www.strava.com/activities/10179981317)
 - [Gilman Tunnels](https://www.strava.com/activities/9635956540)
+
+<iframe src="https://ridewithgps.com/embeds?type=route&id=44024279&sampleGraph=true&distanceMarkers=true&showPhotos=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+- [Caldera Crest Trail](https://www.trailforks.com/trails/caldera-crest-trail/)
 - [Go West young man.. Well I’m getting older but don’t feel it.](https://www.strava.com/activities/10459102374)
 - [Today’s history lesson’s and a white bike.](https://www.strava.com/activities/10110780858)
 - [Morning Ride with Tommy. Forgot to unpause at the top.](https://www.strava.com/activities/10087193041)
