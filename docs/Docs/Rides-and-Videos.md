@@ -76,3 +76,119 @@ UPDATE
 ![danube01](Images/danube-01.jpeg)
 ![danube02](Images/danube-02.jpeg)
 ![danube03](Images/danube-03.jpeg)
+
+-----
+
+-----
+
+## Video Editing
+
+I use `ffmpeg` on IGEL OS (Linux) to clip / trim `.mp4` files.
+
+### Script to clip / trim `mp4` files
+
+```bash linenums="1"
+#!/bin/bash
+
+# MP4 Clip Extractor
+# Requires: zenity, ffmpeg
+
+set -e
+
+########################################
+# Select input MP4
+########################################
+
+INPUT=$(zenity --file-selection \
+    --title="Select MP4 Video" \
+    --file-filter="MP4 files | *.mp4")
+
+[ -z "$INPUT" ] && exit 0
+
+########################################
+# Single dialog for clip settings
+########################################
+
+RESULT=$(zenity --forms \
+    --title="Create MP4 Clip" \
+    --text="Enter the clip settings" \
+    --separator="|" \
+    --width=500 \
+    --add-entry="Start Time (HH:MM:SS)" \
+    --add-entry="End Time (HH:MM:SS)" \
+    --add-entry="Output Filename" )
+
+[ $? -ne 0 ] && exit 0
+
+IFS="|" read -r START END OUTFILE <<< "$RESULT"
+
+########################################
+# Validate input
+########################################
+
+if [[ -z "$START" || -z "$END" || -z "$OUTFILE" ]]; then
+    zenity --error \
+        --text="All fields are required."
+    exit 1
+fi
+
+# Add .mp4 if needed
+[[ "$OUTFILE" != *.mp4 ]] && OUTFILE="${OUTFILE}.mp4"
+
+OUTPUT="$(dirname "$INPUT")/$OUTFILE"
+
+########################################
+# Run ffmpeg
+########################################
+
+(
+    echo "10"
+    echo "# Extracting video..."
+
+    ffmpeg -y \
+        -ss "$START" \
+        -to "$END" \
+        -i "$INPUT" \
+        -c copy \
+        "$OUTPUT" >/tmp/ffmpeg.log 2>&1
+
+    echo "100"
+
+) | zenity \
+    --progress \
+    --title="Creating Clip" \
+    --text="Processing..." \
+    --percentage=0 \
+    --auto-close \
+    --no-cancel
+
+########################################
+# Show result
+########################################
+
+if [[ -f "$OUTPUT" ]]; then
+    zenity --info \
+        --title="Complete" \
+        --text="Clip successfully created:\n\n$OUTPUT"
+else
+    zenity --error \
+        --title="Error" \
+        --text="ffmpeg failed.\n\nSee /tmp/ffmpeg.log"
+fi
+```
+
+### Merge multiple mp4 files
+
+- Create a text file named files.txt:
+
+```bash linenums="1"
+file 'part1.mp4'
+file 'part2.mp4'
+file 'part3.mp4'
+```
+
+- Combine the files
+
+```bash linenums="1"
+ffmpeg -f concat -safe 0 -i files.txt -c copy output.mp4
+```
