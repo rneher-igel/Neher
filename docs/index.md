@@ -2,9 +2,11 @@
 
 `"one bike ride away from figuring it all out" - Tom Ritchey`
 
-`"It never gets easier, you just go faster." -Greg LeMond`
+`"It still hurts just as much, you just go faster" – Greg LeMond`
 
 `"My bikes are my medical devices, they measure my lack of fitness and how out of shape I am!" - anonymous`
+
+`"Training isn’t just about improving your physical state, but also your psychological tolerance to discomfort or pain."`
 
 `"A million years from now only three things will remain: cockroaches, Hostess Twinkies, and vi." - anonymous`
 
