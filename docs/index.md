@@ -244,7 +244,7 @@ Measurement Id: G-9LJPNGE4R5
 
 - [BBBike Garmin Custom Map Extracts](https://extract.bbbike.org/garmin.html)
 
-- <a href="Docs/Maps/gmapsupp-NM-240718.zip" download>Sample New Mexico Map Extract - 18 July 2024</a>
+- <a href="Docs/Maps/gmapsupp-NM-260811.img.zip" download>Sample New Mexico Map Extract - 11 August 2026</a>
 
 **Note:** On Garmin, place the img file into Garmin folder.
 
