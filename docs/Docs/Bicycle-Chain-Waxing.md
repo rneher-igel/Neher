@@ -10,6 +10,14 @@ UPDATE
 
 -----
 
+## Skip the New Chain Cleaning and Buy Waxed Chains
+
+- [KMC Waxed Chains](https://kmcchain.us/collections/all-chains)
+
+-----
+
+-----
+
 ## New Chain Cleaning
 
 - Add 5:1 mixture of [elma tec clean A4](https://www.elma-ultrasonic.com/fileadmin/downloads/CleaningAgents/ProductInformation/EN/PI_elma%20tec%20clean%20A4_EN.pdf) to Ultrasonic Cleaner
