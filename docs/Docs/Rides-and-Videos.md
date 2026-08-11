@@ -42,6 +42,8 @@ UPDATE
 
 ## Videos
 
+- [Jemez to Valles Caldera - New Mexico - After rain storm - 260810](https://youtu.be/0x0lxSUx0HQ)
+- [To Cuba from dirt road that leads to Fenton Lake - New Mexico - 260808](https://youtu.be/-0R5xLO2o8o)
 - [Fall colors on ride to top of Santa Fe Ski Area - 240928](https://youtu.be/FQxCcJpoLhk)
 - [Molas Lake to Telluride via Ophir Pass - 240817](https://youtu.be/95h8Jhez-yc)
 - [Sand surfing](https://youtu.be/EdIwXk2kRc4?si=VF5rh4u7WfWpgzD2)
