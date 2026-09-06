@@ -194,3 +194,106 @@ file 'part3.mp4'
 ```bash linenums="1"
 ffmpeg -f concat -safe 0 -i files.txt -c copy output.mp4
 ```
+
+### Script to Merge multiple mp4 files
+
+```bash linenums="1"
+#!/bin/bash
+#set -x
+#trap read debug
+
+# Usage:
+#   ./combine-mp4.sh [directory] [output-file]
+#
+# Examples:
+#   ./combine-mp4.sh
+#   ./combine-mp4.sh /videos
+#   ./combine-mp4.sh /videos combined.mp4
+
+set -e
+
+DIR="${1:-.}"
+OUTPUT="${2:-output.mp4}"
+FILELIST="$DIR/files.txt"
+
+# Verify ffmpeg is installed
+if ! command -v ffmpeg >/dev/null 2>&1; then
+    echo "ERROR: ffmpeg is not installed or not in PATH."
+    exit 1
+fi
+
+# Verify directory exists
+if [ ! -d "$DIR" ]; then
+    echo "ERROR: Directory does not exist: $DIR"
+    exit 1
+fi
+
+# Convert directory to absolute path
+DIR="$(cd "$DIR" && pwd)"
+FILELIST="$DIR/files.txt"
+
+echo "Searching for MP4 files in:"
+echo "  $DIR"
+echo
+
+# Create files.txt
+: > "$FILELIST"
+
+count=0
+
+while IFS= read -r -d '' file; do
+
+    # Skip the output file if it already exists
+    if [ "$(basename "$file")" = "$OUTPUT" ]; then
+        continue
+    fi
+
+    # Escape single quotes for ffmpeg concat format
+    escaped_file=$(printf '%s' "$file" | sed "s/'/'\\\\''/g")
+
+    printf "file '%s'\n" "$escaped_file" >> "$FILELIST"
+
+    echo "Adding: $(basename "$file")"
+    count=$((count + 1))
+
+done < <(find "$DIR" -maxdepth 1 -type f -iname '*.mp4' -print0 | sort -z)
+
+echo
+
+if [ "$count" -eq 0 ]; then
+    echo "ERROR: No MP4 files found."
+    rm -f "$FILELIST"
+    exit 1
+fi
+
+if [ "$count" -eq 1 ]; then
+    echo "WARNING: Only one MP4 file was found."
+fi
+
+echo "Created:"
+echo "  $FILELIST"
+echo
+cat "$FILELIST"
+echo
+
+# Remove existing output to prevent ffmpeg prompting
+rm -f "$DIR/$OUTPUT"
+
+echo "Combining $count MP4 files..."
+echo
+
+ffmpeg \
+    -f concat \
+    -safe 0 \
+    -i "$FILELIST" \
+    -c copy \
+    "$DIR/$OUTPUT"
+
+echo
+echo "========================================"
+echo "Complete"
+echo "========================================"
+echo "Files combined : $count"
+echo "Output         : $DIR/$OUTPUT"
+echo "File list      : $FILELIST"
+```
